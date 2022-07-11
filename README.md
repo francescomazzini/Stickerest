@@ -2,7 +2,7 @@
 
 ## What is Stickerest?
 
-Stickerest is a university project for the exam "Introduction to Database". It wants to represent a website in which artists can draw artworks and sell them or offer them as packs of Whatsapp Stickers, real physical Stickers or just NFTs.
+Stickerest is a university project for the exam "Introduction to Database". It represents a website in which artists can draw artworks and sell them or offer them as packs of Whatsapp Stickers, real physical Stickers or just NFTs.
 
 ### Type of Users
 
