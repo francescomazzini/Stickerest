@@ -1,4 +1,4 @@
-# STICKEREST
+# STICKEREST 😃
 
 ## What is Stickerest?
 
