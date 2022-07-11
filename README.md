@@ -29,5 +29,9 @@ WORK IN PROGRESS. The project was only about the database itself. Nevertheless, 
 
 ### Frontend
 
+WIP
+
 ### Backend
+
+WIP
 
