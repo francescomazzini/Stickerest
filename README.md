@@ -35,3 +35,12 @@ WIP
 
 WIP
 
+## Next Steps
+
+- [ ] Decide the technology Stack
+- [ ] Start developing Frontend and Backend
+- [ ] Publish the website (only with the possibility of buying/selling/giving Whatsapp Stickers)
+- [ ] Allow the possibility of NFT packs (research in this has to be done)
+- [ ] Allow the possibility of shipping and printing
+- [ ] Allow the possibility to ask to pick the order in a pick-up point and find real local printing shops interested in the project
+
